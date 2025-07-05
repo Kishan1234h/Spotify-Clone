@@ -6,40 +6,40 @@ The "spotify-clone" project is a web application that replicates the core functi
 
 <p align="center"><strong>Login-Page</strong></p>
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/34397129-e3be-4509-a17f-a9f052f774fe)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/34397129-e3be-4509-a17f-a9f052f774fe)
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/22be8c9e-748c-4121-8ac6-473fe336def1)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/22be8c9e-748c-4121-8ac6-473fe336def1)
 
 ---
 
 <p align="center"><strong>Dashboard</strong></p>
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/fe4dc30d-da71-4f07-9584-1d7b1243d28e)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/fe4dc30d-da71-4f07-9584-1d7b1243d28e)
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/511fd157-0efd-4197-aa8a-04e08645c0b2)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/511fd157-0efd-4197-aa8a-04e08645c0b2)
 
 ---
 
 <p align="center"><strong>Playlists</strong></p>
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/8a470cf3-946e-44cb-a421-6f41d4dde34a)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/8a470cf3-946e-44cb-a421-6f41d4dde34a)
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/1b7528e0-8d50-4d35-b055-d7a0439493e4)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/1b7528e0-8d50-4d35-b055-d7a0439493e4)
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/b57c9bda-b3a3-4463-993c-dc397277419b)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/b57c9bda-b3a3-4463-993c-dc397277419b)
 
 ---
 
 <p align="center"><strong>Logout</strong></p>
 
-![image](https://github.com/HoneyTyagii/spotify-clone/assets/78690656/5f246595-c31f-485b-9deb-9e520fa8f77c)
+![image](https://github.com/kishan1234h/spotify-clone/assets/78690656/5f246595-c31f-485b-9deb-9e520fa8f77c)
 
 ---
 
 ## Installation
 To install and run the Spotify Clone locally on your machine, follow these steps:
 
-Clone this repository to your local machine using git clone : https://github.com/HoneyTyagii/spotify-clone
+Clone this repository to your local machine using git clone : https://github.com/kishan1234h/spotify-clone
 
 Navigate to the project directory: cd Spotify-Clone
 
